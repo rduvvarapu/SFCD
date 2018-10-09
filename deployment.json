@@ -1,0 +1,9 @@
+{
+    "name" : "CICD Deployment Job",
+    "repository" : {
+        "repo" : "abc.git",
+        "approvers" : {
+            "work" : ["a", "b"]
+        }
+    }
+}
